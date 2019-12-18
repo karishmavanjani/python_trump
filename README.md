@@ -1,6 +1,9 @@
 # Text analysis of Trump's tweets
-This python code looks at the number of times President Trump used the words millions or billions in his tweets. 
+This python code can looks for any keyworf in President Trump's tweets. 
 
-Result: More than 200 tweets were published in a single year with the either the word 'million' or 'billion' in it. 
+Here are some intersting findings: 
+More than 200 tweets were published in a single year with the word 'million' or 'billion' in it. 
+Exactly 15 tweets mentioned the word impeachment.
+Almost 200 tweets talked about China.
 
 
